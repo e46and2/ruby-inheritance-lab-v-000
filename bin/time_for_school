@@ -31,4 +31,4 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 puts "#{jim.first_name}"
 
-puts "Steve just learned this important knowledge: '#{emily.knowledge.first}' from Avi"
+puts "Emily just learned this important knowledge: '#{emily.knowledge.first}' from Avi"
